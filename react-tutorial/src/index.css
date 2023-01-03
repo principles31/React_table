@@ -331,7 +331,7 @@ dd {
   max-width: 1200px;
   padding: 0 1rem;
   margin-left: auto;
-  background: cadetblue;
+  background: linear-gradient(#f28482, #9d8189);
   margin-right: auto; }
 
 .small-container {
