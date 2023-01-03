@@ -1,5 +1,7 @@
 # React_table
 A React table character with a name and a job where a user can add and remove job to the table.
+
+![Desktop](https://user-images.githubusercontent.com/90258833/210319788-a374b1dd-1b81-46af-b585-5a091f8a4949.PNG)
 ## Built With
 
 - HTML
